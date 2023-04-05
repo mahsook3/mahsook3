@@ -65,7 +65,6 @@ Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-b
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsook3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=mahsook3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
