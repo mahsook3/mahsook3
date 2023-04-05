@@ -35,12 +35,6 @@ Hello there! I am a student at Sri Eshwar College of Engineering pursuing a degr
 ### NearTreat - Let us buy from the shopless
 * Mobile Application
 
-## Gallery
-* Attended DevFest by Google Developer Group Coimbatore
-* Selected for the finale in Sri Eshwar College of Engineering
-* Completed Generic Online Training Cyber Security certification course
-* Attended IEEE Xplore webinar organized by Sri Eshwar College of Engineering
-
 ## Contact
 * Email: mahsook.m.a@gmail.com
 * Phone: +91 81898 51258
@@ -49,7 +43,7 @@ Hello there! I am a student at Sri Eshwar College of Engineering pursuing a degr
 Thank you for taking the time to read my profile. Feel free to contact me if you want to know more about me or if you have any opportunities that may suit my skills and interests.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mahsook.mahsook.14) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahso_ok3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahsook) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/MahsookShaik?t=MhJPXoFfUqqJ-dSsTdbItg&s=09) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mahsook.mahsook.14) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahso_ok3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahsook) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MahsookShaik?t=MhJPXoFfUqqJ-dSsTdbItg&s=09) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
