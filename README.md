@@ -73,3 +73,8 @@ Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-b
 
 ![](https://github-contributor-stats.vercel.app/api?username=mahsook3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
