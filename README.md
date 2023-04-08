@@ -19,6 +19,7 @@
 🎓 Bachelor of Engineering in Electronics and Communications Engineering
 ### Certifications
 * 🐍 The Joy of Computing using Python 
+   * NPTEL
 * 💻 Mastering Data Structures & Algorithms using C and C++ 
 * 🌐 Introduction to IoT 
 * 🚀 Crash Course on Python 
