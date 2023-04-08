@@ -65,7 +65,7 @@ Thank you for taking the time to read my profile. Feel free to contact me if you
 Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 #📈 Github Stats
-[![Mahsook's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mahsook3&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/mahsook3)
+[![Mahsook's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mahsook3&bg_color=151515&color=e1e1e1&line=e18c00&point=403d3d&area=true&hide_border=true)](https://github.com/mahsook3)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mahsook3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
