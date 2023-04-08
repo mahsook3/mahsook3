@@ -3,28 +3,38 @@
 🎓 I'm a student at Sri Eshwar College of Engineering pursuing a degree in Electronics and Communications Engineering. I'm passionate about electrical processes and applications, and I aspire to get a job in the core field after graduation.
 
 ## 🚀 Skills
-• 👨‍💻 Programming languages 
-• 🐞 Debugging 
-• 🎨 Design 
-• 📝 Technical writing 
-• 📈 Project management 
-• 🤝 Teamwork 
-• 🤔 Critical thinking 
-• 👑 Leadership 
-• 🗂️ Organization 
-• 💬 Communications
+* 👨‍💻 Programming languages 
+* 🐞 Debugging 
+* 🎨 Design 
+* 📝 Technical writing 
+* 📈 Project management 
+* 🤝 Teamwork 
+* 🤔 Critical thinking 
+* 👑 Leadership 
+* 🗂️ Organization 
+* 💬 Communications
 
 ## 🎓 Education and Certifications
 ### Sri Eshwar College of Engineering (2021-2025)
 🎓 Bachelor of Engineering in Electronics and Communications Engineering
 ### Certifications
-🐍 The Joy of Computing using Python • 💻 Mastering Data Structures & Algorithms using C and C++ • 🌐 Introduction to IoT • 🚀 Crash Course on Python • 🐍 Python • 📈 Data Science Foundation - Level 1 • 🗃️ SQL • 🐍 Diploma in Python with Data Science and Machine Learning
+* 🐍 The Joy of Computing using Python 
+* 💻 Mastering Data Structures & Algorithms using C and C++ 
+* 🌐 Introduction to IoT 
+* 🚀 Crash Course on Python 
+* 🐍 Python 
+* 📈 Data Science Foundation - Level 1 
+* 🗃️ SQL 
+* 🐍 Diploma in Python with Data Science and Machine Learning
 
 ## 🚀 Projects
 ### Smart Ambulance Traffic Control System 🚑🌐📍
-🌐 IoT • ☁️ Cloud • 🛰️ GPS Tracking
+* 🌐 IoT 
+* ☁️ Cloud 
+* 🛰️ GPS Tracking
 ### NearTreat - Let us buy from the shopless 📲🛍️
-📱 Mobile Application
+* 📱 Mobile Application
+* ❤️ Flutter
 
 
 ## 🌐 Socials:
