@@ -68,6 +68,6 @@ Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-b
 # 📊 GitHub Stats:
 [![Mahsook's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mahsook3&bg_color=151515&color=e1e1e1&line=e18c00&point=403d3d&area=true&hide_border=true)](https://github.com/mahsook3)
 
-| ![](https://github-readme-stats.vercel.app/api?username=mahsook3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&width=auto)<br/> | ![](https://github-readme-streak-stats.herokuapp.com/?user=mahsook3&theme=dark&hide_border=false) |
+| ![](https://github-readme-stats.vercel.app/api?username=mahsook3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> | ![](https://github-readme-streak-stats.herokuapp.com/?user=mahsook3&theme=dark&hide_border=false) |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsook3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=mahsook3&limit=5&theme=dark&combine_all_yearly_contributions=true) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsook3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&width=auto) | ![](https://github-contributor-stats.vercel.app/api?username=mahsook3&limit=5&theme=dark&combine_all_yearly_contributions=true) |
