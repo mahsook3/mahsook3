@@ -40,17 +40,6 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mahsook.mahsook.14) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahso_ok3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahsook) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MahsookShaik?t=MhJPXoFfUqqJ-dSsTdbItg&s=09) 
 
-## Contact
-* Email: mahsook.m.a@gmail.com
-* Phone: +91 81898 51258
-* City: Coimbatore
-* Birthday: June 13
-
-Thank you for taking the time to read my profile. Feel free to contact me if you want to know more about me or if you have any opportunities that may suit my skills and interests.
-
-
-
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -77,3 +66,11 @@ Here are some statistics about my GitHub activity:
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsook3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=mahsook3&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
 Thanks for checking out my GitHub Stats section! If you have any questions or feedback, feel free to reach out to me.
+
+## Contact
+* Email: mahsook.m.a@gmail.com
+* Phone: +91 81898 51258
+* City: Coimbatore
+* Birthday: June 13
+
+Thank you for taking the time to read my profile. Feel free to contact me if you want to know more about me or if you have any opportunities that may suit my skills and interests.
