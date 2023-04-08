@@ -84,7 +84,7 @@ Here are some statistics about my GitHub activity:
 |---------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsook3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=mahsook3&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
-Thanks for checking out my GitHub Stats section! If you have any questions or feedback, feel free to reach out to me.
+💖Thanks for checking out my GitHub Stats section! If you have any questions or feedback, feel free to reach out to me.
 
 ## Contact
 * Email: mahsook.m.a@gmail.com
@@ -92,4 +92,4 @@ Thanks for checking out my GitHub Stats section! If you have any questions or fe
 * City: Coimbatore
 * Birthday: June 13
 
-Thank you for taking the time to read my profile. Feel free to contact me if you want to know more about me or if you have any opportunities that may suit my skills and interests.
+💖Once again Thank you for taking the time to read my profile. Feel free to contact me if you want to know more about me or if you have any opportunities that may suit my skills and interests.
