@@ -70,4 +70,18 @@ Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-b
 
 | ![](https://github-readme-stats.vercel.app/api?username=mahsook3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> | ![](https://github-readme-streak-stats.herokuapp.com/?user=mahsook3&theme=dark&hide_border=false) |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsook3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&width=auto) | ![](https://github-contributor-stats.vercel.app/api?username=mahsook3&limit=5&theme=dark&combine_all_yearly_contributions=true) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsook3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=mahsook3&limit=5&theme=dark&combine_all_yearly_contributions=true) |
+
+
+
+### Stats table
+
+Here are some statistics about my GitHub activity:
+
+| GitHub Stats | |
+| --- | --- |
+| ![Mahsook's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahsook3&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Mahsook's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=mahsook3&theme=dark&hide_border=false) |
+| **Top languages** | **Contributors** |
+| ![Mahsook's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsook3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![Mahsook's contributors](https://github-contributor-stats.vercel.app/api?username=mahsook3&limit=5&theme=dark&combine_all_yearly_contributions=true) |
+
+Thanks for checking out my GitHub Stats section! If you have any questions or feedback, feel free to reach out to me.
