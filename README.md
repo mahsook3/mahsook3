@@ -3,7 +3,16 @@
 🎓 I'm a student at Sri Eshwar College of Engineering pursuing a degree in Electronics and Communications Engineering. I'm passionate about electrical processes and applications, and I aspire to get a job in the core field after graduation.
 
 ## 🚀 Skills
-👨‍💻 Programming languages • 🐞 Debugging • 🎨 Design • 📝 Technical writing • 📈 Project management • 🤝 Teamwork • 🤔 Critical thinking • 👑 Leadership • 🗂️ Organization • 💬 Communications
+• 👨‍💻 Programming languages 
+• 🐞 Debugging 
+• 🎨 Design 
+• 📝 Technical writing 
+• 📈 Project management 
+• 🤝 Teamwork 
+• 🤔 Critical thinking 
+• 👑 Leadership 
+• 🗂️ Organization 
+• 💬 Communications
 
 ## 🎓 Education and Certifications
 ### Sri Eshwar College of Engineering (2021-2025)
