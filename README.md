@@ -21,12 +21,19 @@
 * 🐍 The Joy of Computing using Python 
    * NPTEL
 * 💻 Mastering Data Structures & Algorithms using C and C++ 
+   * Udemy
 * 🌐 Introduction to IoT 
+   * Cisco
 * 🚀 Crash Course on Python 
+   * Coursera
 * 🐍 Python 
+   * coursera
 * 📈 Data Science Foundation - Level 1 
+   * IBM
 * 🗃️ SQL 
+   * Skillrack
 * 🐍 Diploma in Python with Data Science and Machine Learning
+   * Udemy
 
 ## 🚀 Projects
 ### Smart Ambulance Traffic Control System 🚑🌐📍
