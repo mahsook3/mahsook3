@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Mohamed Shaik Mahsook 👨‍💻
 🎓 I'm a student at Sri Eshwar College of Engineering pursuing a degree in Electronics and Communications Engineering. I'm passionate about electrical processes and applications, and I aspire to get a job in the core field after graduation.
-<img align="right" alt="GIF" src="[https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)" height="280" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" height="280" />
 
 ## 🚀 Skills
 * 👨‍💻 Programming languages 
