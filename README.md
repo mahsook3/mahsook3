@@ -15,37 +15,12 @@
 * 🗂️ Organization 
 * 💬 Communications
 
-## 🎓 Education and Certifications
+## 🎓 Education
 ### Sri Eshwar College of Engineering,Coimbatore.
 🎓 Bachelor of Engineering in Electronics and Communications Engineering (2021-2025)
 ### L.K. Higher Secondary School,Tuticorin District
 🎓 HIGH SCHOOL
 
-### Certifications
-* 🐍 The Joy of Computing using Python 
-   * NPTEL
-   * issued Nov 2022
-* 💻 Mastering Data Structures & Algorithms using C and C++ 
-   * Udemy
-   * issued Sep 2022
-* 🌐 Introduction to IoT 
-   * Cisco
-   * issued Sep 2022
-* 🚀 Crash Course on Python 
-   * Coursera
-   * issued Aug 2022
-* 🐍 Python 
-   * HackerRank | GUVI Geek Networks,IITM Reasearch Park
-   * issued Aug 2021 | issued Jul 2021
-* 📈 Data Science Foundation - Level 1 
-   * IBM
-   * issued Jun 2021
-* 🗃️ SQL 
-   * Skillrack
-   * issued Jan 2022
-* 🐍 Diploma in Python with Data Science and Machine Learning
-   * Udemy
-   * issued Jun 2021
 
 ## 🚀 Projects
 ### Smart Ambulance Traffic Control System 🚑🌐📍
