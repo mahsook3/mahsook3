@@ -348,6 +348,7 @@ Earned the placement by winning a national-level Design Hackathon. Contributed t
 | **The Pitch 2023** | Semi-finalist | Startup TN & Coimbatore Vizha |
 | **SECE Internal Hackathon 2022** | Hackathon finale participant | Sri Eshwar College of Engineering |
 | **MEDICNIK** | Consolation prize | Karpagam Academy of Higher Education |
+
 **Recognized by:** MeitY Startup Hub · SINE · TNSI · IIT Hyderabad · Zoho · Cloud Analogy · GDG · Guvi · LearnowX · TCE · SECE · StartupTN · Vizha · Karpagam
 
 <br/>
