@@ -10,7 +10,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,100:0078D4&height=320&section=header&text=Mahsook&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Specialist%20%7C%20Generative%20AI%20%7C%20Cloud%20%7C%20MERN&descSize=18&descAlignY=58"
+  src="https://capsule-render.vercel.app/api?type=venom&height=240&text=%0AI%20don%E2%80%99t%20just%20use%20AI%3B%20I%20engineer%20it.&fontSize=44&color=0:6C3483,100:0078D4&fontColor=EAEAF0&stroke=1A1A2E&strokeWidth=2"
   width="100%"
 />
 
@@ -145,7 +145,7 @@ Mobile-first, fully responsive web experiences engineered with **React.js** and 
 <tr>
 <td width="50%" valign="top">
 
-### 🍲 NearTreat - My First Project
+### 🍲 NearTreat
 Hyperlocal platform connecting street food lovers with nearby vendors — making it easy to discover, explore, and support hidden street food gems.
 
 **Domain:** Full Stack Web Development (MERN)
@@ -326,9 +326,19 @@ Earned the placement by winning a national-level Design Hackathon. Contributed t
 | AI | [Oracle Certified: Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=19AB74AFAD2771B566D9EC28142F73287DAEFE4B5FCEFAE7D09DF986C5AA2C7B) | Oracle | Dec 2025 |
 | Cloud Computing | [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/mahsook/credentials/2a201ed34beab8d6) | Microsoft | June 2025 |
 | AI | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/mahsook/credentials/92376e1814ab9bfb) | Microsoft | June 2025 |
+| UI/UX Design | Figma | Guvi Geek Networks, IITM Research Park | Jan 2024 |
 | Cloud Computing | Cloud Computing | NPTEL | Nov 2023 |
-| Programming & Development | The Joy of Computing using Python | NPTEL | Nov 2022 |
-
+| AI | AI For India 2.0 | GUVI Geek Networks, IITM Research Park | Aug 2023 |
+| Chatbot Development | Developing Chatbots with Azure | LinkedIn | Feb 2023 |
+| Programming & Development | The Joy of Computing using Python | NPTEL | Nov 2023 |
+| Programming & Development | Mastering Data Structures & Algorithms using C and C++ | Udemy | Oct 2022 |
+| Programming & Development | Crash Course on Python | Coursera | Aug 2021 |
+| Programming & Development | Python | HackerRank | Aug 2021 |
+| Programming & Development | Python | GUVI Geek Networks, IITM Research Park | July 2021 |
+| Data Science & Machine Learning | Diploma in Python with Data Science and Machine Learning | Udemy | June 2021 |
+| Data Science | Data Science Foundations – Level 1 | IBM | Jan 2022 |
+| Internet of Things (IoT) | Introduction to IoT | Cisco | Aug 2022 |
+| Database Management | SQL – Standard | SkillRack | Jan 2022 |
 
 <br/>
 
