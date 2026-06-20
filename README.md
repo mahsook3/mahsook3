@@ -32,7 +32,6 @@
 ## 🧠 About Me
 
 ```yaml
-name:        Mahsook
 role:        AI Specialist · Generative & Agentic AI Engineer
 secondary:   Full Stack Developer (MERN) · UI/UX Designer
 focus:       Multi-Agent Systems, LLM Orchestration, Cloud-Native AI Applications
@@ -145,7 +144,7 @@ Mobile-first, fully responsive web experiences engineered with **React.js** and 
 <tr>
 <td width="50%" valign="top">
 
-### 🍲 NearTreat
+### 🍲 NearTreat - My First Project
 Hyperlocal platform connecting street food lovers with nearby vendors — making it easy to discover, explore, and support hidden street food gems.
 
 **Domain:** Full Stack Web Development (MERN)
@@ -294,10 +293,10 @@ Two fully designed UI/UX concepts: a warm, intuitive biryani-ordering experience
 
 ## 💼 Experience
 
-**Software Engineer — AI & Cloud** · *Mar 2025 – Present*
+**Software Engineer — AI & Cloud** · 
 Designing and implementing scalable AI-driven applications using Microsoft Azure cloud services; developing and experimenting with Generative AI models, Agentic AI, and MCP; building multi-agent collaboration systems using AutoGen and LangChain; researching emerging AI technologies and translating experimental prototypes into production-ready solutions.
 
-**Product Design & Development Intern** · *Mar 2024 – May 2024*
+**Product Design & Development Intern** · 
 Earned the placement by winning a national-level Design Hackathon. Contributed to UI/UX design initiatives within a product design team, while collaborating with developers to gain hands-on insight into how design and engineering intersect in user-centric product development.
 
 <br/>
@@ -306,9 +305,9 @@ Earned the placement by winning a national-level Design Hackathon. Contributed t
 
 | Qualification | Institution | Period | Score |
 |---|---|---|---|
-| B.E., Electronics and Communication Engineering | Sri Eshwar College of Engineering | 2021 – 2025 | CGPA: 7.82 |
-| Higher Secondary (12th / HSC) | L.K. Higher Secondary School | 2019 – 2021 | 82% |
-| Secondary School (10th / SSLC) | L.K. Higher Secondary School | 2019 – 2021 | 87% |
+| B.E., Electronics and Communication Engineering | Sri Eshwar College of Engineering | 2021 – 2025 |
+| Higher Secondary (12th / HSC) | L.K. Higher Secondary School | 2019 – 2021 |
+| Secondary School (10th / SSLC) | L.K. Higher Secondary School | 2019 – 2021 |
 
 <br/>
 
@@ -326,19 +325,9 @@ Earned the placement by winning a national-level Design Hackathon. Contributed t
 | AI | [Oracle Certified: Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=19AB74AFAD2771B566D9EC28142F73287DAEFE4B5FCEFAE7D09DF986C5AA2C7B) | Oracle | Dec 2025 |
 | Cloud Computing | [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/mahsook/credentials/2a201ed34beab8d6) | Microsoft | June 2025 |
 | AI | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/mahsook/credentials/92376e1814ab9bfb) | Microsoft | June 2025 |
-| UI/UX Design | Figma | Guvi Geek Networks, IITM Research Park | Jan 2024 |
 | Cloud Computing | Cloud Computing | NPTEL | Nov 2023 |
-| AI | AI For India 2.0 | GUVI Geek Networks, IITM Research Park | Aug 2023 |
-| Chatbot Development | Developing Chatbots with Azure | LinkedIn | Feb 2023 |
-| Programming & Development | The Joy of Computing using Python | NPTEL | Nov 2023 |
-| Programming & Development | Mastering Data Structures & Algorithms using C and C++ | Udemy | Oct 2022 |
-| Programming & Development | Crash Course on Python | Coursera | Aug 2021 |
-| Programming & Development | Python | HackerRank | Aug 2021 |
-| Programming & Development | Python | GUVI Geek Networks, IITM Research Park | July 2021 |
-| Data Science & Machine Learning | Diploma in Python with Data Science and Machine Learning | Udemy | June 2021 |
-| Data Science | Data Science Foundations – Level 1 | IBM | Jan 2022 |
-| Internet of Things (IoT) | Introduction to IoT | Cisco | Aug 2022 |
-| Database Management | SQL – Standard | SkillRack | Jan 2022 |
+| Programming & Development | The Joy of Computing using Python | NPTEL | Nov 2022 |
+
 
 <br/>
 
@@ -346,20 +335,19 @@ Earned the placement by winning a national-level Design Hackathon. Contributed t
 
 | Achievement | Recognition | Organized By |
 |---|---|---|
-| 1st Runner-Up at Ideathon | ₹50,000 cash prize + "Out of the Box Thinker" title | LearNowX Cloud Analogy |
-| Top 10 Startups across India — MeitY Grand Challenge | Top 10 Startup recognition | IIT Hyderabad |
-| 1st Runner-Up & Grand Prize Winner — Pitch Fest 2023 | ₹15,000 cash prize | Sri Eshwar College of Engineering |
-| 1st Runner-Up — GuviDanJRhackathon 2024 | Goodies (₹5,000) + premium course (₹2,000) + 2-month internship | GUVI Geek Networks |
-| "Agent of Change in Tech" — Tech for Good Hackathon | Title award | Google Developers Group Coimbatore |
-| Top 30 — Amazon Smbhav Hackathon 2024 | Qualified for Prototype Round | Amazon |
-| Top 5 — Google GenAI Exchange Hackathon 2024 | Top 5 + Google goodies | Google |
-| TNSI EDII-TN Ideation Camp | Selected Participant | TNSI EDII-TN |
-| DevHack 2023 | Finalist | Startup TN, TCE, Maxelerator Foundation, Young Indians Madurai, GDG |
-| Mini Project Expo 2023 | Second Prize | Sri Eshwar College of Engineering |
-| The Pitch 2023 | Semi-Finalist | Startup TN & Coimbatore Vizha |
-| SECE Internal Hackathon 2022 | Hackathon Finale Participant | Sri Eshwar College of Engineering |
-| MEDICNIK | Consolation Prize | Karpagam Academy of Higher Education |
-
+| **1st Runner-Up — Ideathon** | Grand cash award + *“Out of the Box Thinker”* title | LearNowX, Cloud Analogy |
+| **Top 10 Startups across India — MeitY Grand Challenge** | National Top 10 Startup recognition | IIT Hyderabad |
+| **1st Runner-Up & Grand Prize Winner — Pitch Fest 2023** | Grand prize recognition | Sri Eshwar College of Engineering |
+| **1st Runner-Up — GuviDanJRhackathon 2024** | Goodies, premium learning access & internship opportunity | GUVI Geek Networks |
+| **“Agent of Change in Tech” — Tech for Good Hackathon** | Title award | Google Developers Group Coimbatore |
+| **Top 30 — Amazon Smbhav Hackathon 2024** | Qualified for Prototype Round | Amazon |
+| **Top 5 — Google GenAI Exchange Hackathon 2024** | Top 5 recognition & Google goodies | Google |
+| **TNSI EDII-TN Ideation Camp** | Selected participant | TNSI EDII-TN |
+| **DevHack 2023** | Finalist | Startup TN, TCE, Maxelerator Foundation, Young Indians Madurai, GDG |
+| **Mini Project Expo 2023** | Second prize | Sri Eshwar College of Engineering |
+| **The Pitch 2023** | Semi-finalist | Startup TN & Coimbatore Vizha |
+| **SECE Internal Hackathon 2022** | Hackathon finale participant | Sri Eshwar College of Engineering |
+| **MEDICNIK** | Consolation prize | Karpagam Academy of Higher Education |
 **Recognized by:** MeitY Startup Hub · SINE · TNSI · IIT Hyderabad · Zoho · Cloud Analogy · GDG · Guvi · LearnowX · TCE · SECE · StartupTN · Vizha · Karpagam
 
 <br/>
