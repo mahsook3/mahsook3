@@ -303,13 +303,11 @@ Earned the placement by winning a national-level Design Hackathon. Contributed t
 
 ## 🎓 Education
 
-| Qualification | Institution | Period | 
-|---|---|---|---|
-| B.E., Electronics and Communication Engineering | Sri Eshwar College of Engineering | 2021 – 2025 |
+| Qualification | Institution | Period |
+|---|---|---|
+| B.E. – Electronics and Communication Engineering | Sri Eshwar College of Engineering | 2021 – 2025 |
 | Higher Secondary (12th / HSC) | L.K. Higher Secondary School | 2019 – 2021 |
-| Secondary School (10th / SSLC) | L.K. Higher Secondary School | 2019 – 2021 |
-
-<br/>
+| Secondary School (10th / SSLC) | L.K. Higher Secondary School | 2018 – 2019 |
 
 ## 📜 Certifications
 
